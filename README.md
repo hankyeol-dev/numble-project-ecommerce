@@ -13,6 +13,10 @@ yarn start:server
 yarn start
 ```
 
+### 프로젝트 구현 스택
+
+`TypeScript`, `React`, `TailwindCSS`, `SWR`, `react-hook-form`, `json-server`
+
 <br />
 
 ### 프로젝트 구현 사항
